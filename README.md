@@ -24,7 +24,7 @@ Adaptive and stylish landing page of a creative agency with modern animations an
  *Clone the repository and run* :
 
    ```bash
-   git clone https://github.com/Shatlyk1011/agency-website.git
+   git clone https://github.com/shivamcsc0909/Smooth-fluid-animation-marketing-website
    ```
 
    ```
